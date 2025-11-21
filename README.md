@@ -2,15 +2,30 @@
 # AIM:
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
+
 # EQUIPMENTS REQUIRED:
 
-
+<img width="1195" height="316" alt="Screenshot 2025-11-21 215330" src="https://github.com/user-attachments/assets/a1f08c1a-3cd6-4817-9ca2-93369a7492ce" />
 
 # IP ASSIGNMENT:
 
-
+| NAME     | IP ADDRESS      | SUBNET MASK     | NETWORK       | CLASS | GATEWAY         |
+|----------|------------------|------------------|---------------|-------|------------------|
+| PC0      | 192.168.0.1      | 255.255.255.0    | 192.168.0.0   | C     | 192.168.0.200    |
+| PC1      | 192.168.0.2      | 255.255.255.0    | 192.168.0.0   | C     | 192.168.0.200    |
+| PC2      | 192.168.1.1      | 255.255.255.0    | 192.168.1.0   | C     | 192.168.1.200    |
+| PC3      | 192.168.1.2      | 255.255.255.0    | 192.168.1.0   | C     | 192.168.1.200    |
+| PC4      | 192.168.2.1      | 255.255.255.0    | 192.168.2.0   | C     | 192.168.2.200    |
+| PC5      | 192.168.2.2      | 255.255.255.0    | 192.168.2.0   | C     | 192.168.2.200    |
+| ROUTER0  | 192.168.0.200    | 255.255.255.0    | 192.168.0.0   | C     | -                |
+| ROUTER0  | 192.168.1.200    | 255.255.255.0    | 192.168.1.0   | C     | -                |
+| ROUTER1  | 192.168.1.201    | 255.255.255.0    | 192.168.1.0   | C     | -                |
+| ROUTER1  | 192.168.2.200    | 255.255.255.0    | 192.168.2.0   | C     | -                |
 
 # NETWORK DIAGRAM:
+
+<img width="1042" height="540" alt="Screenshot 2025-11-21 213554" src="https://github.com/user-attachments/assets/226f2003-1e0d-4b1e-b1e7-524a1d2e2f6b" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -80,7 +95,9 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 
+<img width="828" height="805" alt="Screenshot 2025-11-21 215145" src="https://github.com/user-attachments/assets/c039e872-c168-41ed-9bc4-a01e60419de6" />
 
+<img width="828" height="799" alt="Screenshot 2025-11-21 213829" src="https://github.com/user-attachments/assets/95bd0f7e-1632-4b89-9b15-72f4d5e8380b" />
 
 # RESULT:
 
